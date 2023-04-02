@@ -137,6 +137,14 @@ related to the `Hero`:
             ]
         }
 
+## Alternatively
+Alternatively, you can access the above endpoints without the need to clone the repository/application in your local computer by pasting [the url in the `about` section of this repo](https://superheroes-z40k.onrender.com) in the postman's address bar and appending the routes mentioned above.
+
+TL;DR: Use this live link and the above routes to test the API:
+
+        https://superheroes-z40k.onrender.com
+
+
 ## Authors
 [Samuel Gitimu](https://github.com/Samueelx)
 
